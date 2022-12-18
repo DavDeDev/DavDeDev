@@ -45,8 +45,8 @@
 
 <h2 align="center">Coder stats</h2>
 <br>
-<a href="https://github.com/DaveDeDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaveDeDev&hide=prs,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<a align="right" href="https://github.com/DaveDeDev">
+  <img float="right" src="https://github-readme-stats.vercel.app/api?username=DaveDeDev&hide=prs,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
 
 <!--START_SECTION:waka-->
