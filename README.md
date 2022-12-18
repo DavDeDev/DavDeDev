@@ -1,15 +1,13 @@
 [![Header](https://readme-typing-svg.demolab.com?font=Nabla&size=48&duration=2500&pause=500&color=F26C1F&center=true&vCenter=true&width=1000&height=75&lines=Hi%2C+nice+to+meet+you!;Ciao%2C+piacere+di+conoscerti!;Privet!+Rad+tebya+videt'!;%C2%A1Hola+mucho+gusto!;Bonjour+heureux+de+vous+rencontrer!;%E4%BD%A0%E5%A5%BD%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E4%BD%A0%EF%BC%81)](https://git.io/typing-svg)
  <!-- Thanks to  @DenverCoder1 -->
 
-<p align=center>My name is David and I am an aspiring Software Engineer from <img alt="Italian Flag" src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="15"> <b>Genoa, Italy</b>, currently studying in <img alt="Canadian Flag" src="https://cdn-icons-png.flaticon.com/512/323/323277.png" width="15"> <b>xToronto, Canada</b>. I am excited to share my work on GitHub and contribute to the developer community. Feel free to connect with me and collaborate on projects or just say hi!</p>
-
-<h2 align=center>Let's connect!</h2>
-
+<p align=center>My name is David and I am an aspiring Software Engineer from <img alt="Italian Flag" src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="15"> <b>Genoa, Italy</b>, currently studying in <img alt="Canadian Flag" src="https://cdn-icons-png.flaticon.com/512/323/323277.png" width="15"> <b>Toronto, Canada</b>. I am excited to share my work on GitHub and contribute to the developer community. Feel free to connect with me and collaborate on projects or just say hi!</p>
+<br>
 <p align=center>
 <a href="https://www.linkedin.com/in/pietrocoladavid/"><img alt="LinkedIn" src="https://img.shields.io/badge/@pietrocoladavid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height=25/></a>
 <a href="https://twitter.com/D4v1D911"><img alt="Twitter" src="https://img.shields.io/badge/@D4v1D911-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height=25/></a>
 </p>
-
+<hr>
 <h2 align=center>Technologies & Tools</h2>
 <br>
 <p align=center>
