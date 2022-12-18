@@ -7,15 +7,18 @@
 <a href="https://www.linkedin.com/in/pietrocoladavid/"><img alt="LinkedIn" src="https://img.shields.io/badge/@pietrocoladavid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height=25/></a>
 <a href="https://twitter.com/D4v1D911"><img alt="Twitter" src="https://img.shields.io/badge/@D4v1D911-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height=25/></a>
 </p>
-<hr>
+<br>
+<br>
 <h2 align=center>Technologies & Tools</h2>
 <br>
 <p align=center>
+<img alt="Java" src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAPCAYAAAAyPTUwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG3SURBVChTfZDPS1RRFMe/5947qANDpBgmTJpCgpRCm3a5iFq0iJj5A3RTswgr2rmQcRAX7f3BRMGLoL9AI9qkLYLZFNTKIEXQaTHOjIt0em/eu8cz7z2E0fADl3vP/X4593suzmPvOW7GxxAV72eovkBaA+m4DPmveS+PpOdj1iN8iq9CzphrT3GFDvCegEXt417lCfpjqd28I4ILvJPjDBOmfR9fepdQjtRT5oTGQ9kcYtxhxveBFdQjJaI9ho81S7jAGj+lerY9ic5IiGgz9y9jR36gpF1sKsK3zhQux1KIzAFkF5wxG2CwGbhfVwu5fc7D7NYx+mj4w2ZPrdpxpPkqwd4PzZl55zZB3QD4LwLAKpYkygsY1d6+xvqrXK6ZKThvQnOL7PzbSbZ2gJT6w0wE5j5ZFZXqcoLDxl3J+/vEPJHPm0sYvC6N/1koiw5Ux92temFujkHyP4J5XCwmKuWuEQ23bI2aIuYh3UrRJO+HGS6K8WPU7LOhbMFZk7wbkrcE61dgEg3ra2nVSBJMNytOyfMHllQtjPHg5euU8RK35PFrlu1FKDJgchXxfmtIRUQ2aP46BgR1pCNZqpF+AAAAAElFTkSuQmCC" />
 <img alt="NPM" src="https://img.shields.io/badge/Npm-ff0505?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Oracle" src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
 <img alt="AngularJS" src="https://img.shields.io/badge/AngularJs-DD0031?style=flat-square&logo=angularjs&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML-ff3f0a?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-ff4524?style=flat-square&logo=git&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-ff4b0a?style=flat-square&logo=ubuntu&logoColor=white" />
 <img alt="BraveBrowser" src="https://img.shields.io/badge/Bave%20Browser-ff5429?style=flat-square&logo=brave&logoColor=white" />
 <img alt="Postman" src="https://img.shields.io/badge/Potsman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
@@ -36,6 +39,12 @@
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img alt="JetBrains IDEs" src="https://img.shields.io/badge/JetBrains%20IDEs-000000?style=flat-square&logo=jetbrains&logoColor=white" /><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chango&size=30&duration=3000&pause=250&color=FFFFFF&center=true&vCenter=true&width=1000&height=20&lines=.+.+.)](https://git.io/typing-svg)
 </p>
 
-# Currently learning
+<h2 align="center">GitHub stats</h2>
+<br>
+<a href="https://github.com/DaveDeDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaveDeDev&hide=prs,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
