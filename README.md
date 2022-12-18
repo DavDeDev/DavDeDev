@@ -45,11 +45,13 @@
 
 <h2 align="center">Coder stats</h2>
 <br>
-<a align="right" href="https://github.com/DaveDeDev">
+<table>
+<tr>
+<td><a align="right" href="https://github.com/DaveDeDev">
   <img float="right" src="https://github-readme-stats.vercel.app/api?username=DaveDeDev&hide=prs,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a>
+</a></td>
 
-<!--START_SECTION:waka-->
+<td><!--START_SECTION:waka-->
 
 ```text
 CSS              17 hrs 9 mins   ████████████▒░░░░░░░░░░░░   49.55 %
@@ -61,3 +63,6 @@ Java             1 hr 50 mins    █▒░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+</td>
+</tr>
+</table>
