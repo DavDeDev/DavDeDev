@@ -23,14 +23,14 @@
 <img alt="BraveBrowser" src="https://img.shields.io/badge/Bave%20Browser-ff5429?style=flat-square&logo=brave&logoColor=white" />
 <img alt="Postman" src="https://img.shields.io/badge/Potsman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-ffc71f?style=flat-square&logo=linux&logoColor=black" />
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=grey" />
+<!-- <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=grey" /> -->
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ffe414?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00eb04?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="NodeJS" src="https://img.shields.io/badge/NodeJs-00cc00?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img alt="Csharp" src="https://img.shields.io/badge/-06b300?style=flat-square&logo=csharp&logoColor=white" />
 <img alt="C" src="https://img.shields.io/badge/-75b6ff?style=flat-square&logo=c&logoColor=white" />
 <img alt="Powershell" src="https://img.shields.io/badge/Powershell-5291ff?style=flat-square&logo=powershell&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-1499ff?style=flat-square&logo=docker&logoColor=white" />
+<!-- <img alt="Docker" src="https://img.shields.io/badge/Docker-1499ff?style=flat-square&logo=docker&logoColor=white" /> -->
 <img alt="CSS" src="https://img.shields.io/badge/CSS-0077cc?style=flat-square&logo=css3&logoColor=white" />
 <img alt="Vscode" src="https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-6905ff?style=flat-square&logo=bootstrap&logoColor=white" />
