@@ -3,8 +3,8 @@
 <!-- Thanks to  @DenverCoder1 -->
 
 ---
-My name is David and I am an aspiring Software Engineer from <span style="color:green">Gen</span>oa,It<span style="color:red">aly</span> 
 
+My name is David and I am an aspiring Software Engineer from **<span style="color:green">Gen</span>oa, It<span style="color:red">aly</span>**, currently living in **<span style="color:red">Toro</span>nto<span style="color:red">, </span> Ca<span style="color:red">nada</span>**.
 
 <img alt="NPM" src="https://img.shields.io/badge/Npm-ff0505?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Oracle" src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
