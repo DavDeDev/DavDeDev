@@ -1,10 +1,10 @@
-[![Header](https://readme-typing-svg.demolab.com?font=Nabla&size=48&duration=2500&pause=500&color=F26C1F&center=true&vCenter=true&width=1000&height=75&lines=Hi%2C+nice+to+meet+you!;Ciao%2C+piacere+di+conoscerti!;Privet!+Rad+tebya+videt'!;%C2%A1Hola+mucho+gusto!;Bonjour+heureux+de+vous+rencontrer!;%E4%BD%A0%E5%A5%BD%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E4%BD%A0%EF%BC%81)](https://git.io/typing-svg)
+[![Hi!](https://readme-typing-svg.demolab.com?font=Nabla&size=48&duration=2500&pause=500&color=F26C1F&center=true&vCenter=true&width=1000&height=75&lines=Hi%2C+nice+to+meet+you!;Ciao%2C+piacere+di+conoscerti!;Privet!+Rad+tebya+videt'!;%C2%A1Hola+mucho+gusto!;Bonjour+heureux+de+vous+rencontrer!;%E4%BD%A0%E5%A5%BD%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E4%BD%A0%EF%BC%81)](https://git.io/typing-svg)
 
 <!-- Thanks to  @DenverCoder1 -->
 
 ---
 
-My name is David and I am an aspiring Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="20"> **Genoa, Italy**, currently living in **Toronto, Canada**.
+My name is David and I am an aspiring Software Engineer from <img alt="Italian Flag" src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="15"> **Genoa, Italy**, currently living in <img alt="Canadian Flag" src="https://cdn-icons-png.flaticon.com/512/323/323277.png" width="15"> **Toronto, Canada**.
 
 <img alt="NPM" src="https://img.shields.io/badge/Npm-ff0505?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Oracle" src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
