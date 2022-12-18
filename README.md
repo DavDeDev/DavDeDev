@@ -10,7 +10,8 @@ My name is David and I am an aspiring Software Engineer from <img alt="Italian F
 <a href="https://twitter.com/D4v1D911"><img alt="Twitter" src="https://img.shields.io/badge/@D4v1D911-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height=25/></a>
 </p>
 
-# Tech and Tools
+<h2 align=center>Technologies & Tools</h2>
+<br>
 <p>
 <img alt="NPM" src="https://img.shields.io/badge/Npm-ff0505?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Oracle" src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
