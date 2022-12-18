@@ -43,8 +43,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chango&size=30&duration=3000&pause=250&color=FFFFFF&center=true&vCenter=true&width=1000&height=20&lines=.+.+.)](https://git.io/typing-svg)
 </p>
 
-<h2 align="center">GitHub stats</h2>
+<h2 align="center">Coder stats</h2>
 <br>
 <a href="https://github.com/DaveDeDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaveDeDev&hide=prs,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
