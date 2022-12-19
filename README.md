@@ -45,7 +45,7 @@
 
 <h2 align="center">Coder stats</h2>
 <br>
-<table>
+<table width=1000>
 <tr>
 <td><a align="right" href="https://github.com/DaveDeDev">
   <img float="right" src="https://github-readme-stats.vercel.app/api?username=DaveDeDev&hide=prs,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" />
