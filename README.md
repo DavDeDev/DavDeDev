@@ -41,7 +41,7 @@
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img alt="JetBrains IDEs" src="https://img.shields.io/badge/JetBrains%20IDEs-000000?style=flat-square&logo=jetbrains&logoColor=white" /><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chango&size=30&duration=3000&pause=250&color=FFFFFF&center=true&vCenter=true&width=1000&height=20&lines=.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chango&size=30&duration=5000&pause=250&color=FFFFFF&center=true&vCenter=true&width=1000&height=20&lines=.+.+.)](https://git.io/typing-svg)
 
 </p>
 
@@ -53,7 +53,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DaveDeDev&hide=prs,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a></td>
 </tr><tr>
-<td><!--START_SECTION:waka-->
+<td>
+ <p align="center">Last week I used these programming languages!</p>
+ <!--START_SECTION:waka-->
 
 ```text
 CSS                              ████████████▒░░░░░░░░░░░░   49.55 %
