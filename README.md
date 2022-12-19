@@ -50,7 +50,7 @@
 <td><a align="right" href="https://github.com/DaveDeDev">
   <img float="right" src="https://github-readme-stats.vercel.app/api?username=DaveDeDev&hide=prs,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a></td>
-
+</tr><tr>
 <td><!--START_SECTION:waka-->
 
 ```text
