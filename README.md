@@ -45,7 +45,7 @@
 
 </p>
 
-<h2 align="center">Coder stats</h2>
+<h2 align="center">My Stats!</h2>
 <br>
 <table align=center>
 <tr>
