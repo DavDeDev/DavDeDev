@@ -1,4 +1,5 @@
 [![Header](https://readme-typing-svg.demolab.com?font=Nabla&size=48&duration=2500&pause=500&color=F26C1F&center=true&vCenter=true&width=1000&height=75&lines=Hi%2C+nice+to+meet+you!;Ciao%2C+piacere+di+conoscerti!;Privet!+Rad+tebya+videt'!;%C2%A1Hola+mucho+gusto!;Bonjour+heureux+de+vous+rencontrer!;%E4%BD%A0%E5%A5%BD%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E4%BD%A0%EF%BC%81)](https://git.io/typing-svg)
+
  <!-- Thanks to  @DenverCoder1 -->
 
 <p align=center>My name is David and I am an aspiring Software Engineer from <img alt="Italian Flag" src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="15"> <b>Genoa, Italy</b>, currently studying in <img alt="Canadian Flag" src="https://cdn-icons-png.flaticon.com/512/323/323277.png" width="15"> <b>Toronto, Canada</b>. I am excited to share my work on GitHub and contribute to the developer community. Feel free to connect with me and collaborate on projects or just say hi!</p>
@@ -41,11 +42,12 @@
 <img alt="JetBrains IDEs" src="https://img.shields.io/badge/JetBrains%20IDEs-000000?style=flat-square&logo=jetbrains&logoColor=white" /><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chango&size=30&duration=3000&pause=250&color=FFFFFF&center=true&vCenter=true&width=1000&height=20&lines=.+.+.)](https://git.io/typing-svg)
+
 </p>
 
 <h2 align="center">Coder stats</h2>
 <br>
-<table width=1000>
+<table align=center>
 <tr>
 <td><a align="right" href="https://github.com/DaveDeDev">
   <img float="right" src="https://github-readme-stats.vercel.app/api?username=DaveDeDev&hide=prs,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" />
