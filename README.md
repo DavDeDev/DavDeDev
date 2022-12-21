@@ -54,7 +54,7 @@
 <table align=center>
 <tr>
 <td><a align="center" href="https://github.com/DaveDeDev">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaveDeDev&hide=prs,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavDeDev&hide=prs,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a></td>
 </tr><tr>
 <td>
