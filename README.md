@@ -6,7 +6,6 @@
 <br>
 <p align=center>
 <a href="https://www.linkedin.com/in/pietrocoladavid/"><img alt="LinkedIn" src="https://img.shields.io/badge/@pietrocoladavid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height=25/></a>
-<a href="https://twitter.com/D4v1D911"><img alt="Twitter" src="https://img.shields.io/badge/@D4v1D911-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height=25/></a>
 </p>
 <br>
 <br>
