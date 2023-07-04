@@ -29,20 +29,22 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/NodeJs-00cc00?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img alt="Csharp" src="https://img.shields.io/badge/-06b300?style=flat-square&logo=csharp&logoColor=white" />
 <img alt="Sql Devloper" src="https://img.shields.io/badge/Sql Developer-bdc9e5?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAPCAYAAAA/I0V3AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJOSURBVDhPbVI9bxNBEJ3dPd/F53PsO+MvxY5TJGnoQgoUlAYJGkQBvwCkKAIKGgqqIIEoEBLwByKUwhVCRIKK1JQRiiI6ZARGBORgO/bZvg/f7jJrLhYFT1pp3ty82bnZRwDxvP76ggR6gxBYkxIWMJUEAq7nDT/zKPogBN9+eGfjk6pVIM/qbx4RQrZiPoFE+P4Q6yMt5pwC2Xhw++aO4hRxSwWnEELI0WggTgUK2JQRCpsxBVop5AmjVCgipRCeN0AdZ5OvMRKaJqrFcsxQNGuZbLlWhUqhEBmMRqZuQGomObaSSe6kM7xSKPLFuQpJGsa0EcVphJpRiYu2nZgvlVitVErMF0uslHPYrGkyHI+AFDLWAO2cnISc82nif4g4FwPPi2IK1Mlm9U6vN279bof94YCPgoD7QRCNAp/3Bm504vYDz/d5OmUZsUZtj5C84+iFMzk9ZZoEKahrcTkyb9t0eWnOyNRowikbte8/jy8qkTYceSEWqxhwr4zp+iTW9QQE2Q48bbyAUI7xrUn+sntp76jVvkrx4Vir3Q78MORYO/23nGNB/VsdlpxFWJ9bw4yE97/22OHx4WNqpUxNjReGIXTdfth1XTz9cSdqC4974MzYsHX+PtxbuTtp9sM/Oquh14a4UXvWshjhfOoCO5HhGtVgNPZg+2AHdr+8+5s3sl8pAbopQbYmmX/Q7/pwvXpNfmwdwKvGLoxlBOdyK3hWn0xc/nZ/35zh7Eqv20e3iwUcP4mOc8t5pxGke+vNQXMla9jNVRTMlwsv/wAIBf+ma5sR3AAAAABJRU5ErkJggg==" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square">
+<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square" />
 <img alt="C" src="https://img.shields.io/badge/-75b6ff?style=flat-square&logo=c&logoColor=white" />
 <img alt="Powershell" src="https://img.shields.io/badge/Powershell-5291ff?style=flat-square&logo=powershell&logoColor=white" />
-<!-- <img alt="Docker" src="https://img.shields.io/badge/Docker-1499ff?style=flat-square&logo=docker&logoColor=white" /> -->
+<img alt="Docker" src="https://img.shields.io/badge/Docker-1499ff?style=flat-square&logo=docker&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-0077cc?style=flat-square&logo=css3&logoColor=white" />
+<img alt='TypeScript' src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square">
 <img alt="Vscode" src="https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat-square" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-6905ff?style=flat-square&logo=bootstrap&logoColor=white" />
 <img alt="VisualStudio" src="https://img.shields.io/badge/VisualStudio-5800bd?style=flat-square&logo=visualstudio&logoColor=white" />
-<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-170075?style=flat-square&logo=eclipse&logoColor=white" />
+<img alt=AWS src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat-square">
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-170075?style=flat-square&logo=eclipse&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img alt="JetBrains IDEs" src="https://img.shields.io/badge/JetBrains%20IDEs-000000?style=flat-square&logo=jetbrains&logoColor=white" /><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chango&size=30&duration=5000&pause=250&color=FFFFFF&center=true&vCenter=true&width=1000&height=20&lines=.+.+.)](https://git.io/typing-svg)
 
@@ -52,10 +54,6 @@
 <br>
 <table align="center">
 <tr>
-<td align="center"><a align="center" href="https://github.com/DaveDeDev">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavDeDev&hide=prs,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a></td>
-</tr><tr>
 <td>
  <p align="center">Last week I used these programming languages!</p>
  <!--START_SECTION:waka-->
@@ -71,4 +69,7 @@ HTML                                       █▓░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </td>
 </tr>
+<td align="center"><a align="center" href="https://github.com/DaveDeDev">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavDeDev&hide=prs,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a></td>
 </table>
