@@ -59,12 +59,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2023 - To: 05 September 2023
+From: 30 August 2023 - To: 06 September 2023
 
-TypeScript                     ██████████████████████▓░░   90.95 %
-ActionScript                   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-SQL                            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Ezhil                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TypeScript                     ███████████████████████░░   91.50 %
+ActionScript                   ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Ezhil                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
