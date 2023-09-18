@@ -59,9 +59,15 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2023 - To: 16 September 2023
+From: 10 September 2023 - To: 17 September 2023
 
-No activity tracked
+TypeScript                     █████████████████▓░░░░░░░   70.03 %
+ActionScript                   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+SQL                            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Python                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+JavaScript                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Markdown                       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Ezhil                          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
