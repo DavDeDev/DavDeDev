@@ -59,13 +59,10 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2023 - To: 30 September 2023
+From: 24 September 2023 - To: 01 October 2023
 
-Java                             █████████████████░░░░░░░░   67.49 %
-ActionScript                     ███████▒░░░░░░░░░░░░░░░░░   29.43 %
-TSQL                             ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-GitIgnore file                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Ezhil                            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java                             █████████████████████████   99.81 %
+GitIgnore file                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
