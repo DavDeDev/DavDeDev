@@ -59,9 +59,15 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2023 - To: 29 November 2023
+From: 23 November 2023 - To: 30 November 2023
 
-No activity tracked
+TeX                            ██████████████████▓░░░░░░   74.26 %
+JSON                           ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+Git                            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+INI                            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Other                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+BibTeX                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+OpenEdge ABL                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
