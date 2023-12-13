@@ -59,15 +59,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 10 December 2023
+From: 04 December 2023 - To: 11 December 2023
 
-TeX                            █████████████▓░░░░░░░░░░░   54.81 %
-OpenEdge ABL                   ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
-YAML                           ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
-Markdown                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Git                            ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Git Config                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Other                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
