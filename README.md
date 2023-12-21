@@ -59,7 +59,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2023 - To: 19 December 2023
+From: 13 December 2023 - To: 20 December 2023
 
 TeX                            ████████████░░░░░░░░░░░░░   48.49 %
 Other                          █████░░░░░░░░░░░░░░░░░░░░   20.22 %
