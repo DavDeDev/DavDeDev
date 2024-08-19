@@ -59,15 +59,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2024 - To: 17 August 2024
+From: 11 August 2024 - To: 18 August 2024
 
-JSON                         ████████████░░░░░░░░░░░░░   47.42 %
-Git Config                   ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-CSS                          ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-Other                        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-Markdown                     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-TypeScript                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-YAML                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
