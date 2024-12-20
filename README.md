@@ -58,12 +58,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2024 - To: 18 December 2024
+From: 12 December 2024 - To: 19 December 2024
 
-JSON                         █████████████░░░░░░░░░░░░   51.66 %
-TypeScript                   ███████████▒░░░░░░░░░░░░░   45.26 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-YAML                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
