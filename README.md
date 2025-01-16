@@ -58,15 +58,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2025 - To: 14 January 2025
+From: 08 January 2025 - To: 15 January 2025
 
-Java                              ██████████████████▒░░░░░░   73.62 %
-XML                               ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-CLASS                             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Java Properties                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Properties                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-GitIgnore file                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Markdown                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
