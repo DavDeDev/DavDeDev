@@ -5,7 +5,7 @@
 <p align=center>My name is David and I am an aspiring Software Engineer from <img alt="Italian Flag" src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="15"> <b>Genoa, Italy</b>, currently working in <img alt="Canadian Flag" src="https://cdn-icons-png.flaticon.com/512/323/323277.png" width="15"> <b>Toronto, Canada</b>. I am excited to share my work on GitHub and contribute to the developer community. Feel free to connect with me and collaborate on projects or just say hi!</p>
 <br>
 <p align=center>
-<a href="https://www.linkedin.com/in/pietrocoladavid/"><img alt="LinkedIn" src="https://img.shields.io/badge/@pietrocoladavid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height=25/></a>
+<!-- <a href="https://www.linkedin.com/in/pietrocoladavid/"><img alt="LinkedIn" src="https://img.shields.io/badge/@pietrocoladavid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height=25/></a> -->
 </p>
 <br>
 <br>
